@@ -1,6 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Tuzzie's website
 
-You can use the [editor on GitHub](https://github.com/21trodriguez/meme/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This was for made for public speaking.
+
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
